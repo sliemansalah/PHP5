@@ -1,0 +1,64 @@
+=====================================================================================
+                                     روابط الدروس
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+http://localhost/learn/PHP5/5/1.php
+http://localhost/learn/PHP5//5/2.php
+=====================================================================================
+                                 Variables, Concatenation, Comments
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+    $name= "slieman";
+    dollar sign - var_name -  assignment operator - value- type(string)
+
+    echo "$name"; ok
+    echo '$name'; not work
+    echo $name; ok
+
+    الفاريبل لا يبدأ برقم، لا يبدأ بمسافة
+
+    ===============================
+    camelcase - firstName;
+    zend: camelCase (as javascript)
+    wordpress (as _ best)
+    ===============================
+
+    $this = محجوزة لل oop.
+    فممنوع يستخدم كفاريابل
+    ==========================================================
+
+
+    Concatenation: By .
+
+    spaces to be readable.
+
+
+    //single comment
+    #single comment
+    /* double comments */
+
+    // You can also use comments to leave out parts of a code line
+    $x = 5 /* + 15 */ + 5;
+
+    variable scope: global var not shown in function which is scoped.
+
+     global $x, $y;
+     $GLOBALS['y'] = $GLOBALS['x'] + $GLOBALS['y'];
+
+     local variable NOT to be deleted.
+       static $x = 0;
+
+    strlen (get length of string)
+    strrev (string reverse)
+    str_replace (replace string)
+
+    var_dump
+
+    operators: * / == !=
+
+
+
+
+
+
+ =====================================================================================
+ ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -1,0 +1,43 @@
+=====================================================================================
+                                     روابط الدروس
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+http://localhost/learn/PHP5/4/1.php
+
+=====================================================================================
+                                  php syntax, (output: echo, print)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+load page html with php
+
+if file php only (close tag of php remove it by spacing)
+
+<?php
+?>
+
+
+spaces make error, to skip it use
+
+<?php
+
+
+
+without close tag.
+
+
+echo, print نفس الوظيفة
+==============================
+statment: echo "test";
+statment: print "test";
+
+echo not function.
+
+php inside html
+html inside php
+
+double quotes inside single or single inside double.
+or double with double by escabe by \ \
+
+
+
+
+ =====================================================================================
+ ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

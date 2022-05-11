@@ -1,0 +1,30 @@
+=====================================================================================
+                                     روابط الدروس
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+http://localhost/learn/PHP5/2/1.php
+
+=====================================================================================
+                                     ماذا نحتاج ؟
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+php: بيحتاج سيرفر يشغله
+localhost= apache (wamp, xampp, lamp, mamp )
+
+lamp: linux apach mysql php
+mamp: mac apach mysql php
+wamp: windows apache mysql php
+xampp: all os apache mysql php.
+
+php: 5.5
+
+web browser: chrome, firefox, edge..
+ide: komodo edit, komoo ide.
+SublimeText -> free then price.
+netbeans -> free.
+aptanaStudio -> free.
+
+
+IDE: integrated development environment.
+
+
+ =====================================================================================
+ ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
